@@ -19,9 +19,7 @@
     <img align="center" alt="Oracle" height="40" width="50" src="https://cdn-www.infobip.com/wp-content/uploads/2020/10/14135942/oracle-logo.png">
     <img align="center" alt="SQLServer" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
     <img align="center" alt="MySQL" height="40" width="50" src="https://www.logo.wine/a/logo/MySQL/MySQL-Logo.wine.svg">
-
-
-
+    <img align="center" alt="Azure" height="40" width="60" src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg">
   </div>
   
   ##
