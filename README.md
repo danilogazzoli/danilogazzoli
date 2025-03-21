@@ -6,7 +6,7 @@
   
   - 👨🏻‍💻  Software developer
   - 🧑‍🔬📊 Data scientist
-  - 🛰 Master degree on Computer Science
+  - 🛰 Master's degree in Computer Science
   - 🤩 Fascinated by AI and cats
   - 🧵 Craftsman in spare time
   
